@@ -1,9 +1,11 @@
 # About Flexcyon
 
-![flexcyon dark Preview: Dolphin](./images/preview_dolphin.png)
-![flexcyon dark Preview: Settings](./images/preview_settings.png)
-![flexcyon light Preview: Dolphin](./images/preview_dolphin_light.png)
-![flexcyon light Preview: Settings](./images/preview_settings_light.png)
+| Colour Scheme | Application | Preview |
+| --- | --- | --- |
+| flexcyon dark | Dolphin | ![flexcyon dark Preview: Dolphin](./images/preview_dolphin.png) |
+| flexcyon dark | Settings | ![flexcyon dark Preview: Settings](./images/preview_settings.png) |
+| flexcyon light | Dolphin | ![flexcyon light Preview: Dolphin](./images/preview_dolphin_light.png) |
+| flexcyon light | Settings | ![flexcyon light Preview: Settings](./images/preview_settings_light.png) |
 
 This is a KDE port of the Obsidian.md theme
 Flexcyon. It combines the colour schemes of Halcyon and Flexoki.
