@@ -1,0 +1,105 @@
+[General]
+Name=Flexcyon Light
+Version=1.0
+Author=Flexcyon Theme (Obsidian) — https://github.com/MatthewZelriche
+
+[Background:Normal]
+# Light Base: #f1f0ec → 241,240,236
+Color=241,240,236
+
+[Background:Window]
+Color=239,250,242
+
+[Background:Header]
+Color=239,250,242
+
+[Foreground:Normal]
+# Text: #080808 → 8,8,8
+Color=8,8,8
+
+[Foreground:Inactive]
+# Muted: #929190 → 146,145,144
+Color=146,145,144
+
+[Foreground:Link]
+# Internal Link (Purple-Lilac): #6f49ae → 111,73,174
+Color=111,73,174
+
+[Foreground:VisitedLink]
+# External Link (Blue): #3085dd → 48,133,221
+Color=48,133,221
+
+[Foreground:Negative]
+# Red-Salmon: #c03a47 → 192,58,71
+Color=192,58,71
+
+[Foreground:Neutral]
+# Orange: #a37e11 → 163,126,17
+Color=163,126,17
+
+[Foreground:Positive]
+# Lime-Green: #599100 → 89,145,0
+Color=89,145,0
+
+[Colors:Button]
+BackgroundAlternate=239,250,242
+BackgroundNormal=232,242,235
+ForegroundActive=75,101,180
+ForegroundInactive=146,145,144
+ForegroundLink=111,73,174
+ForegroundNormal=8,8,8
+ForegroundVisited=48,133,221
+
+[Colors:Selection]
+# Accent: #4b65b4 → 75,101,180
+BackgroundAlternate=95,121,200
+BackgroundNormal=75,101,180
+ForegroundActive=255,255,255
+ForegroundInactive=8,8,8
+ForegroundLink=111,73,174
+ForegroundNormal=255,255,255
+ForegroundVisited=48,133,221
+
+[Colors:Tooltip]
+BackgroundAlternate=232,242,235
+BackgroundNormal=239,250,242
+ForegroundActive=75,101,180
+ForegroundInactive=146,145,144
+ForegroundLink=111,73,174
+ForegroundNormal=8,8,8
+ForegroundVisited=48,133,221
+
+[Colors:View]
+BackgroundAlternate=239,250,242
+BackgroundNormal=241,240,236
+ForegroundActive=75,101,180
+ForegroundInactive=146,145,144
+ForegroundLink=111,73,174
+ForegroundNormal=8,8,8
+ForegroundVisited=48,133,221
+
+[Colors:Window]
+BackgroundAlternate=232,242,235
+BackgroundNormal=239,250,242
+ForegroundActive=75,101,180
+ForegroundInactive=146,145,144
+ForegroundLink=111,73,174
+ForegroundNormal=8,8,8
+ForegroundVisited=48,133,221
+
+[Colors:Header]
+BackgroundAlternate=232,242,235
+BackgroundNormal=239,250,242
+ForegroundActive=75,101,180
+ForegroundInactive=146,145,144
+ForegroundLink=111,73,174
+ForegroundNormal=8,8,8
+ForegroundVisited=48,133,221
+
+[WM]
+activeBackground=239,250,242
+activeBlend=75,101,180
+activeForeground=8,8,8
+inactiveBackground=241,240,236
+inactiveBlend=232,242,235
+inactiveForeground=146,145,144
