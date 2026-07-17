@@ -21,22 +21,11 @@ You can find out more about [the Obsidian.md theme here](https://github.com/blad
 
 ## Installation
 
-Head over to either the link (see below) for flexycon dark or flexcyon light.
-> Ensure that you have already installed and set up the Cosmic Desktop environment.
+### Manual download
 
-<!-- - Click "Download theme" -->
-<!-- - Press the `Super` or `Window` key. Search for "Appearance" -->
-<!-- - Under `Appearance`, click `Import` -->
-<!-- - Locate the downloaded `Flexcyon-Light.ron`/`Flexcyon-dark.ron` -->
-<!-- file and click `Open` with your file manager -->
-
-### Dark theme link
-
-<!-- [View flexcyon dark on COSMIC Themes](https://cosmic-themes.org/349/). -->
-
-### Light theme link
-
-<!-- [View flexcyon light on COSMIC Themes](https://cosmic-themes.org/350/). -->
+1. Download from [opendesktop.org](https://www.opendesktop.org/p/2365891/)
+2. Copy the `.colors` files to `~/.local/share/color-schemes/`
+3. Select them in **System Settings** -> **Colors**
 
 ## License
 
